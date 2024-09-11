@@ -35,5 +35,3 @@ fetch(ApiUrl)
     console.error('There was a problem with the fetch operation:', error);
   });
 
-
-console.log(lista[0].title)
